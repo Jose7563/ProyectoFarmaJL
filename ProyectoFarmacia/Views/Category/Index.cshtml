@@ -1,0 +1,42 @@
+﻿@model IEnumerable<ProyectoFarmacia.Models.CategoryModel>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutHome.cshtml";
+}
+
+
+
+<p>
+    <a class="btn btn-primary" asp-action="Create" asp-controller="Category" >Create category</a>
+
+</p>
+<table class="table ">
+    <thead class="table-dark">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdCategory)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NameCategory)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdCategory)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NameCategory)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.IdCategory  }, new {@class="btn btn-warning"})
+                    
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

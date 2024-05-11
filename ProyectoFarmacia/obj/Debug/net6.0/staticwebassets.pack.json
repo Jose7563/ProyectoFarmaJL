@@ -1,0 +1,481 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProyectoFarmacia.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProyectoFarmacia.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\css\\dashboard.css",
+      "PackagePath": "staticwebassets\\css\\dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\1cc92e9d-639d-4dff-9933-49e810cfaaab_captopril.png",
+      "PackagePath": "staticwebassets\\img\\1cc92e9d-639d-4dff-9933-49e810cfaaab_captopril.png"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\2e61bcc8-4c51-41ca-8c79-6ec467d15e90_apronax.jpg",
+      "PackagePath": "staticwebassets\\img\\2e61bcc8-4c51-41ca-8c79-6ec467d15e90_apronax.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\302fadb3-2ba0-406a-ad4d-f95bc3057f94_clonazepam.jpg",
+      "PackagePath": "staticwebassets\\img\\302fadb3-2ba0-406a-ad4d-f95bc3057f94_clonazepam.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\3aeaeb19-a128-42b7-8a79-56f2dc1fd04b_ferro.jpg",
+      "PackagePath": "staticwebassets\\img\\3aeaeb19-a128-42b7-8a79-56f2dc1fd04b_ferro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\5d6bc2ed-52b5-43b1-9aa7-6ec96954cb13_apronax.jpg",
+      "PackagePath": "staticwebassets\\img\\5d6bc2ed-52b5-43b1-9aa7-6ec96954cb13_apronax.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\a53cd836-0987-4981-9129-088c0f62d6a2_clonazepam.jpg",
+      "PackagePath": "staticwebassets\\img\\a53cd836-0987-4981-9129-088c0f62d6a2_clonazepam.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\a72f0bb2-6ef1-4b2c-a673-a30f6ea8f301_1cc92e9d-639d-4dff-9933-49e810cfaaab_captopril.png",
+      "PackagePath": "staticwebassets\\img\\a72f0bb2-6ef1-4b2c-a673-a30f6ea8f301_1cc92e9d-639d-4dff-9933-49e810cfaaab_captopril.png"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\acmu.jpg",
+      "PackagePath": "staticwebassets\\img\\acmu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\agora-5.jpg",
+      "PackagePath": "staticwebassets\\img\\agora-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\bedo.jpg",
+      "PackagePath": "staticwebassets\\img\\bedo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\bena.jpg",
+      "PackagePath": "staticwebassets\\img\\bena.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\bfriday.jpg",
+      "PackagePath": "staticwebassets\\img\\bfriday.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\bien.PNG",
+      "PackagePath": "staticwebassets\\img\\bien.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\bienestar.jpg",
+      "PackagePath": "staticwebassets\\img\\bienestar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\caf33c03-7265-40a7-aa9f-eb20a192bd30_clonazepam.jpg",
+      "PackagePath": "staticwebassets\\img\\caf33c03-7265-40a7-aa9f-eb20a192bd30_clonazepam.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\caja.jpg",
+      "PackagePath": "staticwebassets\\img\\caja.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\cremas.jpg",
+      "PackagePath": "staticwebassets\\img\\cremas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\cremas1.jpg",
+      "PackagePath": "staticwebassets\\img\\cremas1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\cremas2.jpg",
+      "PackagePath": "staticwebassets\\img\\cremas2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\dermo.jpg",
+      "PackagePath": "staticwebassets\\img\\dermo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\dfc2c1ad-1a08-41f4-8fc1-824978ffe304_Playerabascket.png",
+      "PackagePath": "staticwebassets\\img\\dfc2c1ad-1a08-41f4-8fc1-824978ffe304_Playerabascket.png"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\efac.jpg",
+      "PackagePath": "staticwebassets\\img\\efac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\euc.jpg",
+      "PackagePath": "staticwebassets\\img\\euc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\euce.jpg",
+      "PackagePath": "staticwebassets\\img\\euce.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\f03c3b67-ecfb-40ce-b7df-38b19f37ec31_clonazepam.jpg",
+      "PackagePath": "staticwebassets\\img\\f03c3b67-ecfb-40ce-b7df-38b19f37ec31_clonazepam.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\f61b8257-cf65-4193-b237-4cfcd134bbd6_logosesion.png",
+      "PackagePath": "staticwebassets\\img\\f61b8257-cf65-4193-b237-4cfcd134bbd6_logosesion.png"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\farmad.jpg",
+      "PackagePath": "staticwebassets\\img\\farmad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\ferro.jpg",
+      "PackagePath": "staticwebassets\\img\\ferro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\iniciosesion.png",
+      "PackagePath": "staticwebassets\\img\\iniciosesion.png"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\logo.jpg",
+      "PackagePath": "staticwebassets\\img\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\logoinicio.png",
+      "PackagePath": "staticwebassets\\img\\logoinicio.png"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\logosesion.png",
+      "PackagePath": "staticwebassets\\img\\logosesion.png"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\mif_contador.jpg",
+      "PackagePath": "staticwebassets\\img\\mif_contador.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\muna.jpg",
+      "PackagePath": "staticwebassets\\img\\muna.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\munalui.jpg",
+      "PackagePath": "staticwebassets\\img\\munalui.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\neurobion.jpg",
+      "PackagePath": "staticwebassets\\img\\neurobion.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\para.jpg",
+      "PackagePath": "staticwebassets\\img\\para.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\prot.jpg",
+      "PackagePath": "staticwebassets\\img\\prot.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\serum.jpg",
+      "PackagePath": "staticwebassets\\img\\serum.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\serundu.jpg",
+      "PackagePath": "staticwebassets\\img\\serundu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\t_oh.jpg",
+      "PackagePath": "staticwebassets\\img\\t_oh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\tarj.PNG",
+      "PackagePath": "staticwebassets\\img\\tarj.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\trimetabol.jpg",
+      "PackagePath": "staticwebassets\\img\\trimetabol.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\vit.jpg",
+      "PackagePath": "staticwebassets\\img\\vit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\vit1.jpg",
+      "PackagePath": "staticwebassets\\img\\vit1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\img\\vita.jpg",
+      "PackagePath": "staticwebassets\\img\\vita.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\js\\index.js",
+      "PackagePath": "staticwebassets\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\js\\jquery-3.3.1.slim.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Luis Medina\\Desktop\\Proyecto Farmacia JL - Servicios Web\\ProyectoFarmacia\\ProyectoFarmacia\\ProyectoFarmacia\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ProyectoFarmacia.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ProyectoFarmacia.props",
+      "PackagePath": "build\\ProyectoFarmacia.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ProyectoFarmacia.props",
+      "PackagePath": "buildMultiTargeting\\ProyectoFarmacia.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ProyectoFarmacia.props",
+      "PackagePath": "buildTransitive\\ProyectoFarmacia.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

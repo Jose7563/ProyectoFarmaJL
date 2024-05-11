@@ -1,0 +1,99 @@
+﻿@model IEnumerable<ProyectoFarmacia.Models.ProductModel>
+
+@{
+    ViewData["Title"] = "Portal";
+    Layout = "~/Views/Shared/_LayoutIndex.cshtml";
+}
+
+
+<style>
+    .card{
+        height: 380px; 
+    }
+</style>
+
+<div class="row my-4">
+    <div class="col-md-6">
+        <a hre="#">
+            <img src="~/img/agora-5.jpg" width="100%" class="grande" />
+        </a>
+    </div>
+    <div class="col-md-6"><img src="~/img/t_oh.jpg" width="100%" /></div>
+</div>
+
+<div class="container my-4">
+    
+    <section class="row">
+
+        <aside class="col-md-3">
+            <div class="card">
+                <a href="/pages/farmacia.html">
+                    <img src="~/img/caja.jpg" width="100%" height="350px" />
+                </a>
+            </div>
+        </aside>
+
+        <article class="col-md-9">
+            <!--<input type="text" class="col-md-4" />-->
+            <!--<a href="" class="btn btn-primary">Ver mas</a>-->
+            @using (Html.BeginForm())
+            {
+                
+                @Html.TextBox("name", "")
+                ;
+                <button class="btn btn-success">Buscar</button>
+            }
+
+            <section class="row">
+                @foreach (var item in Model)
+                {
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-8 my-4">
+
+                        <div class="card">
+                            <a href="">
+                                <img height="60" width="80" src="@Url.Content(string.Format("~/img/{0}",item.ImageProduct))" class="card-img-top img-fluid">
+                            </a>
+
+                            <div class="card-body">
+                                <h5>@item.NameProduct</h5>
+                                <p> S/ @item.PriceUnit</p>
+                                <p>categoria</p>
+
+                                @Html.ActionLink("Add Product","Add",new {id= @item.IdProduct}, new {@class="btn btn-primary"}) 
+                            </div>
+                        </div>
+
+
+                    </div>
+                }
+            </section>
+        </article>
+    </section>
+</div>
+<div class="row">
+    <div class="col-md-6 text-end">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3901.382535909578!2d-76.97861382401987!3d-12.08594344263343!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c79f5dacafbf%3A0x2aecf92fd4325f0d!2sJockey%20Plaza!5e0!3m2!1ses-419!2spe!4v1702828770686!5m2!1ses-419!2spe" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    <div class="col-md-6 text-center">
+        <h3><kbd>Contáctanos:</kbd></h3>
+        <ul class="list-unstyled">
+            <li>Dirección: Jockey Plaza - Tienda 214, Surco</li>
+            <li>Teléfono: +51 965471911 - 01 2454856</li>
+            <li>Correo Electrónico: contacto@farmajl.com</li>
+            <li> Redes Sociales:
+                <ul class="list-inline">
+                    <li class="list-inline-item"><i class="fab fa-facebook"></i></li>
+                    <li class="list-inline-item"><i class="fab fa-twitter"></i></li>
+                    <li class="list-inline-item"><i class="fab fa-instagram"></i></li>
+                    <li class="list-inline-item"><i class="fab fa-linkedin"></i></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</div>
+<script src="https://kit.fontawesome.com/a022ab9fb0.js" crossorigin="anonymous"></script>
+
+
+
+
+

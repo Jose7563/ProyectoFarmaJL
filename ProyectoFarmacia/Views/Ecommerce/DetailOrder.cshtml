@@ -1,0 +1,70 @@
+﻿@model IEnumerable<ProyectoFarmacia.DTO.DetailTicketDTO>
+@{
+    ViewData["Title"] = "DetailOrder";
+    Layout = "~/Views/Shared/_LayoutIndex.cshtml";
+}
+
+<div class="container">
+    <div class="row my-4">
+        <div class="col-md-6">
+            <h4 class="text-primary">Usuario</h4>
+            <p>Nombre : @ViewBag.names</p>
+            <p>Apelidos : @ViewBag.lastNames</p>
+            
+            <p>Telefono : @ViewBag.phone </p>
+        </div>
+        <div class="col-md-6">
+            <h4 class="text-primary">Precio </h4>
+            <p>SubTotal : S/.@ViewBag.subtotal</p>
+            <p>IGV : S/.@ViewBag.igv </p>
+            <p> Total : S/.@ViewBag.total</p>
+        </div>
+    </div>
+    <div class="card">
+
+        <div class="card-header bg-primary">
+            <h4 class="text-white text-center">Detalle Orden  </h4>
+        </div>
+        <div class="card-body">
+            <table class="table table-striped">
+                <thead class="table-dark">
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.NameProduct)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Price)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Amount)
+                        </th>
+                        <th>
+                            Total
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr class="text-center">
+                            <td>
+                                @Html.DisplayFor(modelItem => item.NameProduct)
+                            </td>
+                            <td>
+                                S/. @item.Price
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Amount)
+                            </td>
+                            <td>
+                                S/. @item.TotalItem
+                            </td>
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

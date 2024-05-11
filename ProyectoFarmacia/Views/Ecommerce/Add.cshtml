@@ -1,0 +1,120 @@
+﻿@model ProyectoFarmacia.Models.ProductModel
+@{
+	Layout = "~/Views/Shared/_LayoutIndex.cshtml";
+}
+<link rel="stylesheet" href="~/css/styles.css" />
+
+<main>
+	<div class="container-img">
+		<img height="100%" width="100%" src="@Url.Content(string.Format("~/img/{0}", Model.ImageProduct))" />
+	</div>
+	
+	<div class="container-info-product">
+		@if (ViewBag.message != null)
+		{
+			<span class=" text-white col-md-6 alert alert-primary alert-dismissible fade show" role="alert">@ViewBag.message</span>
+
+		}
+		<div class="container-price">
+			<span> S/.  @Model.PriceUnit </span>
+			
+			
+		</div>
+
+		<div class="container-details-product">
+			<div class="form-group">
+				<label for="colour">Nombre :</label>
+				<label for="colour">@Model.NameProduct</label>
+			</div>
+			<div class="form-group">
+				<label for="size">Categoria :</label>
+				<label for="colour"> @Model.IdCategory</label>
+			</div>
+			<div class="form-group">
+				<label for="size">Stock :</label>
+				<label for="colour"> @Model.UnitsStock  unidades</label>
+			</div>
+		</div>
+
+		<div class="container-add-cart">
+			@using(Html.BeginForm()){
+			<div class="container-quantity">
+				<input type="hidden" name="id" value="@Model.IdProduct"/>
+				<input type="number"
+					   placeholder="1" name="units"
+					   value="1"
+					   min="1"
+					   class="input-quantity" />
+				<div class="btn-increment-decrement">
+					<i class="fa-solid fa-chevron-up" id="increment"></i>
+					<i class="fa-solid fa-chevron-down" id="decrement"></i>
+				</div>
+			</div>
+			<button class="btn-add-to-cart">
+				<i class="fa-solid fa-plus"></i>
+				Añadir al carrito
+			</button>
+			<a asp-action="Basket" asp-controller="Ecommerce" class="btn btn-success">Ir a Carrito</a>
+
+			}
+		</div>
+
+		<div class="container-description">
+			<div class="title-description">
+				<h4>Descripción</h4>
+				<i class="fa-solid fa-chevron-down"></i>
+			</div>
+			<div class="text-description">
+				<p>
+					Lorem ipsum dolor, sit amet consectetur adipisicing
+					elit. Laboriosam iure provident atque voluptatibus
+					reiciendis quae rerum, maxime placeat enim cupiditate
+					voluptatum, temporibus quis iusto. Enim eum qui delectus
+					deleniti similique? Lorem, ipsum dolor sit amet
+					consectetur adipisicing elit. Sint autem magni earum est
+					dolorem saepe perferendis repellat ipsam laudantium cum
+					assumenda quidem quam, vero similique? Iusto officiis
+					quod blanditiis iste?
+				</p>
+			</div>
+		</div>
+
+		<div class="container-additional-information">
+			<div class="title-additional-information">
+				<h4>Información adicional</h4>
+				<i class="fa-solid fa-chevron-down"></i>
+			</div>
+			<div class="text-additional-information hidden">
+				<p>-----------</p>
+			</div>
+		</div>
+
+		<div class="container-reviews">
+			<div class="title-reviews">
+				<h4>Reseñas</h4>
+				<i class="fa-solid fa-chevron-down"></i>
+			</div>
+			<div class="text-reviews hidden">
+				<p>-----------</p>
+			</div>
+		</div>
+
+		<div class="container-social">
+			<span>Compartir</span>
+			<div class="container-buttons-social">
+				<a href="#"><i class="fa-solid fa-envelope"></i></a>
+				<a href="#"><i class="fa-brands fa-facebook"></i></a>
+				<a href="#"><i class="fa-brands fa-twitter"></i></a>
+				<a href="#"><i class="fa-brands fa-instagram"></i></a>
+				<a href="#"><i class="fa-brands fa-pinterest"></i></a>
+			</div>
+		</div>
+	</div>
+</main>
+
+
+
+
+<script src="https://kit.fontawesome.com/81581fb069.js"
+		crossorigin="anonymous"></script>
+<script src="~/js/index.js"></script>

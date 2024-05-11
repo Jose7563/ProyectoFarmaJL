@@ -1,0 +1,180 @@
+﻿@model IEnumerable<ProyectoFarmacia.Models.ProductModel>
+@{
+    ViewData["Title"] = "Grafico";
+    Layout = "~/Views/Shared/_LayoutHome.cshtml";
+}
+
+
+<style>
+	.can {
+		max-height: 250px;
+		max-width: 400px;
+	}
+</style>
+<div class="container">
+	<h1><kbd>Reporte de Ventas</kbd></h1>
+	<div class="row">
+		<div class="card col-md-4 my-2 text-center">
+			<h2>S/. @ViewBag.Sale</h2>
+			<h4>Venta total anual</h4>
+			
+		</div>
+
+		<div class="card col-md-4 my-2 text-center">
+			<h2>S/. @ViewBag.SaleM</h2>
+			<h4>Venta Mes Actual</h4>
+		</div>
+	</div>
+
+	<div class="row">
+
+		<div class="col-md-6 my-4 can  " >
+			<h3>Productos más vendidos</h3>
+			<canvas id="my" class="bg-white"></canvas>
+		</div>
+		<div class="col-md-6 my-4 bg-white">
+			<h3>Reporte de venta mensual</h3>
+			<canvas id="m" ></canvas>
+		</div>
+
+	</div>
+
+	@if (Model is IList<ProductModel>)
+	{
+		var lista = (IList<ProductModel>)Model;
+		if (lista.Count >= 1)
+		{
+			<h1>Productos por reponer stock</h1>
+			<div class="row">
+				<table class="table ">
+					<thead class="table-dark">
+						<tr>
+							<th>
+								Codigo Producto
+							</th>
+							<th>
+								Nombre Producto
+							</th>
+							<th>
+								Stock Producto
+							</th>
+						</tr>
+					</thead>
+					<tbody>
+						@foreach (var item in Model)
+						{
+							<tr>
+								<td>
+									@Html.DisplayFor(modelItem => item.IdProduct)
+								</td>
+								<td>
+									@Html.DisplayFor(modelItem => item.NameProduct)
+								</td>
+								<td>
+									@Html.DisplayFor(modelItem => item.UnitsStock)
+								</td>
+							</tr>
+						}
+					</tbody>
+				</table>
+
+
+			</div>
+		}
+	}
+
+	
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+
+	// grafico dona o pastel
+	const pastel = document.getElementById("my").getContext("2d");
+	let urlpro = 'https://localhost:7257/Panel/Donut';
+	var nombresq = [];
+	var valoresq = [];
+
+	fetch(urlpro)
+		.then(response => response.json())
+		.then(datos => poblar(datos))
+		.catch(error => console.log(error))
+
+	const poblar = (arr) => {
+		arr.forEach(el => {
+			//console.log(el.nombre);
+			nombresq.push(el.name);
+			valoresq.push(el.valuedonut);
+		});
+
+		// paster graph
+		var chartdata = {
+			labels: nombresq,
+			datasets: [{
+				label: '',
+				borderWidth: 2,
+				data: valoresq
+			}]
+		};
+
+
+
+		new Chart(pastel, {
+			type: 'doughnut',
+			data: chartdata,
+			options: {
+				responsive: true,
+				scales: {
+					yAxes: [{
+						ticks: {
+							beginAtZero: true
+						}
+					}]
+				}
+			}
+		});
+	}
+
+</script>
+<script>
+	// grafico linea 
+
+	const ctx = document.getElementById("m").getContext("2d");
+	let url = 'https://localhost:7257/Panel/Tes';
+	var nombres = [];
+	var valores = [];
+	
+	fetch(url)
+		.then(response => response.json())
+		.then(datos => mostrar(datos))
+		.catch(error => console.log(error))
+
+	const mostrar = (arr) => {
+		arr.forEach(el => {
+			//console.log(el.nombre);
+			nombres.push(el.name);
+			valores.push(el.value);
+		});
+
+
+	
+		//
+		new Chart(ctx, {
+			type: 'line',
+			data: {
+				labels: nombres,
+				datasets: [{
+					label: 'Ventas Generadas por Mes ',
+					borderColor: ['Blue'],
+					borderWidth: 1,
+					data: valores
+				}]
+
+			}
+		})
+
+
+	
+
+	}
+</script>

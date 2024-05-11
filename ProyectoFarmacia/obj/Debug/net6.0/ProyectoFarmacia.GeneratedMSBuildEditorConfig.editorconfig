@@ -1,0 +1,109 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProyectoFarmacia
+build_property.RootNamespace = ProyectoFarmacia
+build_property.ProjectDir = C:\Users\Luis Medina\Desktop\Proyecto Farmacia JL - Servicios Web\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Luis Medina\Desktop\Proyecto Farmacia JL - Servicios Web\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Luis Medina/Desktop/Proyecto Farmacia JL - Servicios Web/ProyectoFarmacia/ProyectoFarmacia/ProyectoFarmacia/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luis Medina/Desktop/Proyecto Farmacia JL - Servicios Web/ProyectoFarmacia/ProyectoFarmacia/ProyectoFarmacia/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luis Medina/Desktop/Proyecto Farmacia JL - Servicios Web/ProyectoFarmacia/ProyectoFarmacia/ProyectoFarmacia/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luis Medina/Desktop/Proyecto Farmacia JL - Servicios Web/ProyectoFarmacia/ProyectoFarmacia/ProyectoFarmacia/Views/Category/NewP.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcTmV3UC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luis Medina/Desktop/Proyecto Farmacia JL - Servicios Web/ProyectoFarmacia/ProyectoFarmacia/ProyectoFarmacia/Views/Ecommerce/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luis Medina/Desktop/Proyecto Farmacia JL - Servicios Web/ProyectoFarmacia/ProyectoFarmacia/ProyectoFarmacia/Views/Ecommerce/Basket.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXEJhc2tldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luis Medina/Desktop/Proyecto Farmacia JL - Servicios Web/ProyectoFarmacia/ProyectoFarmacia/ProyectoFarmacia/Views/Ecommerce/DetailOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXERldGFpbE9yZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luis Medina/Desktop/Proyecto Farmacia JL - Servicios Web/ProyectoFarmacia/ProyectoFarmacia/ProyectoFarmacia/Views/Ecommerce/Order.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXE9yZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luis Medina/Desktop/Proyecto Farmacia JL - Servicios Web/ProyectoFarmacia/ProyectoFarmacia/ProyectoFarmacia/Views/Ecommerce/Portal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXFBvcnRhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luis Medina/Desktop/Proyecto Farmacia JL - Servicios Web/ProyectoFarmacia/ProyectoFarmacia/ProyectoFarmacia/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luis Medina/Desktop/Proyecto Farmacia JL - Servicios Web/ProyectoFarmacia/ProyectoFarmacia/ProyectoFarmacia/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luis Medina/Desktop/Proyecto Farmacia JL - Servicios Web/ProyectoFarmacia/ProyectoFarmacia/ProyectoFarmacia/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luis Medina/Desktop/Proyecto Farmacia JL - Servicios Web/ProyectoFarmacia/ProyectoFarmacia/ProyectoFarmacia/Views/Panel/Grafico.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFuZWxcR3JhZmljby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luis Medina/Desktop/Proyecto Farmacia JL - Servicios Web/ProyectoFarmacia/ProyectoFarmacia/ProyectoFarmacia/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luis Medina/Desktop/Proyecto Farmacia JL - Servicios Web/ProyectoFarmacia/ProyectoFarmacia/ProyectoFarmacia/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luis Medina/Desktop/Proyecto Farmacia JL - Servicios Web/ProyectoFarmacia/ProyectoFarmacia/ProyectoFarmacia/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luis Medina/Desktop/Proyecto Farmacia JL - Servicios Web/ProyectoFarmacia/ProyectoFarmacia/ProyectoFarmacia/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luis Medina/Desktop/Proyecto Farmacia JL - Servicios Web/ProyectoFarmacia/ProyectoFarmacia/ProyectoFarmacia/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luis Medina/Desktop/Proyecto Farmacia JL - Servicios Web/ProyectoFarmacia/ProyectoFarmacia/ProyectoFarmacia/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luis Medina/Desktop/Proyecto Farmacia JL - Servicios Web/ProyectoFarmacia/ProyectoFarmacia/ProyectoFarmacia/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luis Medina/Desktop/Proyecto Farmacia JL - Servicios Web/ProyectoFarmacia/ProyectoFarmacia/ProyectoFarmacia/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2dd4biyqo1
+
+[C:/Users/Luis Medina/Desktop/Proyecto Farmacia JL - Servicios Web/ProyectoFarmacia/ProyectoFarmacia/ProyectoFarmacia/Views/Shared/_LayoutHome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRIb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-qlxy2d44ba
+
+[C:/Users/Luis Medina/Desktop/Proyecto Farmacia JL - Servicios Web/ProyectoFarmacia/ProyectoFarmacia/ProyectoFarmacia/Views/Shared/_LayoutIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-5wwu5t1ivk

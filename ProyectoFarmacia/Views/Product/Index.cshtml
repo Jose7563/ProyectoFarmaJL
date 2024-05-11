@@ -1,0 +1,65 @@
+﻿@model IEnumerable<ProyectoFarmacia.Models.ProductModel>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutHome.cshtml";
+}
+
+<h1>Productos</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success" >Crear Producto</a>
+</p>
+<table class="table">
+    <thead class="table-dark">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdProduct)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NameProduct)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdCategory)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PriceUnit)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UnitsStock)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImageProduct)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdProduct)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NameProduct)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdCategory)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PriceUnit)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UnitsStock)
+            </td>
+            <td>
+                <img height="50" width="40" src="@Url.Content(string.Format("~/img/{0}", item.ImageProduct))" />
+            </td>
+            <td>
+                    @Html.ActionLink("Edit", "Edit", new {  id=item.IdProduct  }, new {@class="btn btn-warning"}) 
+                               
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

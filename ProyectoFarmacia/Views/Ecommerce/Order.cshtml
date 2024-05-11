@@ -1,0 +1,56 @@
+﻿@model IEnumerable<ProyectoFarmacia.Models.TicketModel>
+
+@{
+    ViewData["Title"] = "Order";
+    Layout = "~/Views/Shared/_LayoutIndex.cshtml";
+}
+
+<div class="container">
+    <div class="card">
+
+        <div class="card-header bg-success">
+            <h4 class="text-white text-center">Pedidos Realizados  </h4>
+        </div>
+        <div class="card-body">
+            <table class="table table-striped">
+                <thead class="table-dark">
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.IdTicket)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.DateCreation)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Total)
+                        </th>
+                        
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.IdTicket)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.DateCreation)
+                            </td>
+                            <td>
+                                S/.@item.Total
+                            </td>
+
+                            <td>
+                                @Html.ActionLink("Detalle", "DetailOrder", new {  id=item.IdTicket }, new { @class="btn btn-primary"})
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+</div>
+
